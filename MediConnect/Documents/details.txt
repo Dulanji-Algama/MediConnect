@@ -1,0 +1,40 @@
+Create an Account
+Already have an account? Log in
+
+Name
+Email/Phone number
+password
+
+Create Account
+
+By signing up for MediConnect, you agree to our 
+Terms of Service and Private Policy 
+......
+Welocme Back!
+email/phonenumber 
+password
+forget password
+
+log in
+Don't have an account?
+
+or
+/varify/
+Varify Your Phone Number
+please Enter Enter The 4 Digit Code Sent To Your Phone Number
+
+/homepage/
+Find your docter
+book a appoinment 
+search bar
+appoinment
+medical documents
+-section 1
+-section 3
+
+menu
+home
+appoinments
+search
+notification
+profile 
