@@ -1,0 +1,34 @@
+Upcoming Appointmnets
+Old Appoinments
+"Dear [Patient's Name], 
+
+No Notifications Here	
+There are no notifications at the moment
+refresh 
+
+
+
+Prof. THILAK JAYALATH
+Physician
+Special Notes: Peradeniya Hospital
+
+Reference Number: 10200120
+Appoinment number:03
+Appoinmnet Date: 2024.04.05
+
+payment
+docter fee 2500
+hospital fee 700
+booking fee 100
+total fee:3500
+
+
+Hoapital details
+
+Hospital name: XYZ hospital
+Hoapital Address: No.123, ABC Road
+Telephone number:0987654321
+Hospital refrence Number: #1236474883
+
+docter name:
+docter Specialization: Surgeon
